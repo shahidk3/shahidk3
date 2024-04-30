@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shahid
-- 👀 I’m interested in App dev
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in Full stack dev
+- 🌱 I’m currently learning Web dev
 - 📫 How to reach me shahidkhann.395@gmail.com
 - ⚡ Fun fact: Along with app dev i enjoy Graphic designing & video editing
 
